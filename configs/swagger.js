@@ -9,8 +9,8 @@ const options ={
             version: "1.0.0",
             description: "API para una gestión comercial",
             contact:{
-                name: "Omar Xocoy",
-                email: "omar.xocoy2007@gmail.com"
+                name: "Angel Javier Tum González",
+                email: "atum-2023017@kinal.edu.gt"
             }
         },
         servers:[
@@ -21,9 +21,9 @@ const options ={
     },
     apis:[
         "./src/auth/auth.routes.js",
-        "./src/user/user.routes.js",
+        /*"./src/user/user.routes.js",
         "./src/pet/pet.routes.js",
-        "./src/appointment/appointment.routes.js"
+        "./src/appointment/appointment.routes.js"*/
     ]
 }
 
