@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AngelJTumG/ProyectoBimestral.git"
+    "url": "git+https://github.com/OmarMirandaXD/ProyectoBimestralB1.git"
   },
-  "author": "AngelJTumG",
+  "author": "Ludwin Omar Xocoy Miranda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AngelJTumG/ProyectoBimestral/issues"
+    "url": "https://github.com/OmarMirandaXD/ProyectoBimestralB1/issues"
   },
-  "homepage": "https://github.com/AngelJTumG/ProyectoBimestral#readme",
+  "homepage": "https://github.com/OmarMirandaXD/ProyectoBimestralB1#readme",
   "dependencies": {
     "express": "^4.21.2",
     "mongoose": "^8.10.0"
