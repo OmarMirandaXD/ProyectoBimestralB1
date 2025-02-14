@@ -10,7 +10,7 @@ const options ={
             description: "API para una gestión comercial",
             contact:{
                 name: "Omar Xocoy",
-                email: "omar.xocoy2007@gmail.com"
+                email: "Omar.xocoy2007@gmail.com"
             }
         },
         servers:[
@@ -21,9 +21,6 @@ const options ={
     },
     apis:[
         "./src/auth/auth.routes.js",
-        "./src/user/user.routes.js",
-        "./src/pet/pet.routes.js",
-        "./src/appointment/appointment.routes.js"
     ]
 }
 
